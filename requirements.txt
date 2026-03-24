@@ -1,0 +1,2 @@
+Libraries used:
+pandas, numpy, seaborn, matplotlib.pyplot, statsmodels.formula.api, requests, json
