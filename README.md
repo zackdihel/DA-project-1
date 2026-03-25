@@ -14,6 +14,12 @@ The post-treatment analysis reveals that the minimum wage increase produced no i
 
 # Executive Memo
 
+**Key Findings**
+No evidence that minimum wage reduces employment
+•⁠  ⁠No immediate employment shock after the policy
+•⁠  ⁠NJ employment grew ~1.3% faster per quarter post-treatment
+•⁠  ⁠Strong support for parallel trends assumption
+
 In replicating and then extending the Card & Krueger (1994) study, the following conclusions were identified. The replication produced the same results as the original paper, which were that an increase to the minimum wage for fast food workers in NJ saw a correlated increase in employment in the fast food sector; the extension broadened the study out to a 4 year window, which showed that employment trends were in fact parallel to Pennsylvania before the wage increase, and saw a gradual but significant increase following that change.
 
 The mechanisim this study used was DID - Difference in difference. The researchers took advantage of a naturally occurring experiment, with Pennsylvania (control) maintaining the same wage level while simultaneously New Jersey (treated) increased their minimum wage level. The resulting statistical takeaways come from a comparison of these two groups, letting us view the economic trends that correspond to this one specific treatment. The extension continued in using DID paired with an event study to get a wider horizon with which to view each group's trend. Below is a visualization from the extension showing the groups' respective log wage trends with a smoothed rolling average for easy comparison:
